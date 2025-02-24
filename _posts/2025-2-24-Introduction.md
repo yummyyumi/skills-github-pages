@@ -6,7 +6,5 @@ date:2025-2-24
 
 ## Basic condition
 
-## Score
-
 ## Others
 
